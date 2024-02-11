@@ -16,7 +16,7 @@ namespace accounts_application.Savings
         {
             if (Balance - amount < 1000)
             {
-               //set up exception
+                throw new ArgumentException("Minimum deposit for savings account is R1000.");
             }
             Balance -= amount;
         }
