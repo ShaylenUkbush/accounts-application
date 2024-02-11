@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shayl\\source\\accounts-application\\accounts-application\\accounts-application.csproj",
+      "projectUniqueName": "C:\\Users\\shayl\\source\\repos\\accounts-application\\accounts-application\\accounts-application.csproj",
       "projectName": "accounts-application",
-      "projectPath": "C:\\Users\\shayl\\source\\accounts-application\\accounts-application\\accounts-application.csproj",
+      "projectPath": "C:\\Users\\shayl\\source\\repos\\accounts-application\\accounts-application\\accounts-application.csproj",
       "packagesPath": "C:\\Users\\shayl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shayl\\source\\accounts-application\\accounts-application\\obj\\",
+      "outputPath": "C:\\Users\\shayl\\source\\repos\\accounts-application\\accounts-application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shayl\\AppData\\Roaming\\NuGet\\NuGet.Config",
